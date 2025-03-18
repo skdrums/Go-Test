@@ -1,0 +1,15 @@
+elevators:
+    - id: "05"
+      pose:
+        x: 0
+        "y": 0
+        yaw: 0
+      distance_to_elevator_car: 0
+      distance_to_drop_off_point: 0
+    - id: "06"
+      pose:
+        x: 10.313425064086914
+        "y": -1.4575347900390625
+        yaw: -0.02138493195444825
+      distance_to_elevator_car: 0
+      distance_to_drop_off_point: 0
