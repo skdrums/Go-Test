@@ -3,6 +3,7 @@ module github.com/skdrums/Go-Test
 go 1.24
 
 require (
+	github.com/PuerkitoBio/goquery v1.9.3
 	github.com/go-playground/validator/v10 v10.25.0
 	github.com/seqsense/sq-manage-api v0.0.0-20250314041144-3510da32b480
 	gopkg.in/yaml.v3 v3.0.1
@@ -11,6 +12,7 @@ require (
 require (
 	filippo.io/edwards25519 v1.1.0 // indirect
 	github.com/99designs/gqlgen v0.17.66 // indirect
+	github.com/andybalholm/cascadia v1.3.2 // indirect
 	github.com/aws/aws-sdk-go v1.55.6 // indirect
 	github.com/fsnotify/fsnotify v1.7.0 // indirect
 	github.com/gabriel-vasile/mimetype v1.4.8 // indirect
